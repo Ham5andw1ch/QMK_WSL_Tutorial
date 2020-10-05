@@ -1,4 +1,4 @@
-# QMK_WSL_Tutorial
+# QMK WSL Tutorial
 
 ## Installing QMK
 
